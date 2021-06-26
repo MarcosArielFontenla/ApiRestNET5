@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.deps.json
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ref\ApiRest.Entities.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.pdb
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.AssemblyInfo.cs
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ref\ApiRest.Entities.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.pdb

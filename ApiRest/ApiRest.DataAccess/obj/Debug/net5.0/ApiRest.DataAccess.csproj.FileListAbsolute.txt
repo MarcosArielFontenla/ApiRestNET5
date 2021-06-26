@@ -1,0 +1,17 @@
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ApiRest.DataAccess.deps.json
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ApiRest.DataAccess.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ref\ApiRest.DataAccess.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ApiRest.DataAccess.pdb
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ApiRest.Entities.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ApiRest.Services.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ApiRest.Entities.pdb
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\bin\Debug\net5.0\ApiRest.Services.pdb
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.AssemblyInfo.cs
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.csproj.CopyComplete
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ref\ApiRest.DataAccess.dll
+C:\Users\marco\Documents\CsharpPractice\APIRest5\ApiRest\ApiRest.DataAccess\obj\Debug\net5.0\ApiRest.DataAccess.pdb
